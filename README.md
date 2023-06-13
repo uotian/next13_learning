@@ -1,3 +1,3 @@
 # next13_learning
 
-start
+| init | このリポジトリの作成のみ |
